@@ -1,19 +1,3 @@
-# hey, i'm aditya 👋
+# hey there, i'm aditya 👋
 
-### experimenting with weird ideas.
-
----
-
-**currently deep in →** voice agents · AI memory systems · LLM orchestration
-
----
-
-### things i've built / am building
-
-- 🎙️ **voice agents** — real-time AI voice interfaces
-- 🧠 **AI memory systems** — persistent memory for LLM-based apps
-- 🛠️ **dev tools** — things i wished existed, so i built them
-
----
-
-
+currently working on a concept called **fusion** — where the two best frontier models, Claude and GPT, work together on the same hard problem.
